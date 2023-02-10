@@ -10,6 +10,8 @@ Uploaded to GitHub to encourage contributors to improve the original Alpha Versi
 INITIAL Goals
 - First task combine the CP/M VPD with the MOS VPD so Agon Light doesn't need to be flashed seperately for CP/M firmware
 - Create Boot Menu for MOS, BBC Basic and CP/M
+- Make FabGL graphics available to CP/M
+- Add terminals to terminal emulator e.g. DEC VT340, Televideo 950, etc
 
 ----------
 z20x-cpm-00
