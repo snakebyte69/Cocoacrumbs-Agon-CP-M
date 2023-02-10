@@ -13,7 +13,7 @@ INITIAL Goals
 - Make FabGL graphics available to CP/M
 - Add terminals to terminal emulator e.g. DEC VT340, Televideo 950, etc
 - BBC Basic under CP/M - terminal edition
-- BBC Basic (Agon) running under CP/M
+- BBC Basic (Agon with graphics) running under CP/M
 - Microsoft Basic 80
 
 ----------
