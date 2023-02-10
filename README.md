@@ -12,6 +12,9 @@ INITIAL Goals
 - Create Boot Menu for MOS, BBC Basic and CP/M
 - Make FabGL graphics available to CP/M
 - Add terminals to terminal emulator e.g. DEC VT340, Televideo 950, etc
+- BBC Basic under CP/M - terminal edition
+- BBC Basic (Agon) running under CP/M
+- Microsoft Basic 80
 
 ----------
 z20x-cpm-00
