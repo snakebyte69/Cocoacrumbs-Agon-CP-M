@@ -6,7 +6,10 @@ Copied from
 https://bitbucket.org/cocoacrumbs/agon-vpd-cpm/src/master/
 
 Uploaded to GitHub to encourage contributors to improve the original Alpha Version
-First task combine the CP/M VPD with the MOS VPD so Agon Light doesn't need to be flashed seperately for CP/M firmware
+
+INITIAL Goals
+- First task combine the CP/M VPD with the MOS VPD so Agon Light doesn't need to be flashed seperately for CP/M firmware
+- Create Boot Menu for MOS, BBC Basic and CP/M
 
 ----------
 z20x-cpm-00
